@@ -48,7 +48,7 @@ O projeto foi dividido em dois módulos principais:
    - **Tabela Tipo de Movimentação**: Define o tipo de movimentação (entrada ou saída) para controle do fluxo de estoque.
 
 2. **Lógica e Integrações**:
-   - Configurada para gerenciar as interações entre banco de dados e interface.
+   - Configurada para gerenciar as interações entre banco de dados e interface na parte do LOGIC dentro do Outsystems.
 
 ### Frontend
 1. **Interface - UI Flows**:
