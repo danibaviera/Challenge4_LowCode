@@ -8,14 +8,20 @@ Este projeto foi desenvolvido como parte do **Tech Challenge 4**, utilizando a p
    - Apresenta a proposta do projeto.
    - Mensagem de boas-vindas ao sistema de estoque.
    - Login com usuário e senha para acesso seguro.
+     ![image](https://github.com/user-attachments/assets/464e65f7-f800-40fa-a454-0b377acf77a6)
+
 
 2. **Listagem de Produtos**:
    - Exibe o nome, valor e quantidade de produtos cadastrados no estoque.
    - Permite navegação para outras funcionalidades.
+   - ![image](https://github.com/user-attachments/assets/25589e29-1571-4b9f-84c9-a3d9f7d33085)
+
 
 3. **Adicionar Produto**:
    - Tela para criar novos produtos.
    - Após o cadastro, os produtos aparecem na listagem inicial do estoque.
+   - ![image](https://github.com/user-attachments/assets/098b19ff-bdc6-420d-b282-3037183b2b5c)
+
 
 4. **Movimentação de Estoque**:
    - Tela acessada pelo menu superior.
@@ -24,6 +30,9 @@ Este projeto foi desenvolvido como parte do **Tech Challenge 4**, utilizando a p
      - **Entrada**: Adiciona ao estoque.
      - **Saída**: Remove do estoque.
    - Atualiza automaticamente os valores na tela de Produtos.
+   - ![image](https://github.com/user-attachments/assets/86858a36-be9d-40a4-8d8c-3d7832ed0b7b)
+   - ![image](https://github.com/user-attachments/assets/47a0a778-fe62-428b-ba3c-24636a295feb)
+
 
 ## Estrutura Técnica
 
